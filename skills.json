@@ -1,0 +1,4296 @@
+[
+    {
+        "name": "Video",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Director",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Creative Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Leadership",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Decision Making",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Storytelling",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Video Editor",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Technical Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Thinking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Time Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Software Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Colorist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Color Theory",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Aesthetics",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Communication Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "VFX 2D/3D Specialist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Technical Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Problem Solving",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Teamwork",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Software Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Director of Photography (DOP)",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Lighting Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Camera Operation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Storytelling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Expertise",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Drone Operator",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Flight Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Safety Awareness",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Spatial Awareness",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Camera Operator",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Camera Handling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Composition Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Physical Stamina",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Production Assistant",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Organizational Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Communication Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Problem Solving",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Flexibility",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Photography",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Analog Photographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Darkroom Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Film Processing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Composition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Digital Photographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Digital Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Camera Operation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Lighting Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Composition",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Cover Photographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Concept Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Direction",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Photography Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Communication",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Backstage Photographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Discretion",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Flexibility",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Documentary Photography Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Quick Thinking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Adaptability",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Photography Assistant",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Equipment Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Support",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Lighting Assistance",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Organizational Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Communication Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Photo Retoucher",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Photo Editing Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Aesthetic Sensibility",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Time Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Scene Photographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Scene Composition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Lighting Adaptability",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Quick Reflexes",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Architectural Photographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Architectural Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Composition and Perspective",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Lighting Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Graphic Design",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "3D Lettering Graphic",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "3D Modeling Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Typographic Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity and Innovation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Composition",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Cover Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Conceptual Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Graphic Composition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Typography",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Communication",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Logo Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Branding Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Conceptualization",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Typography",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Color Theory",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Client Communication",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Motion Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Animation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Storytelling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Graphic Design Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Time Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Animator",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Animation Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Character Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Storyboarding",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Web Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "HTML/CSS Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Responsive Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "UI/UX Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Graphic Design Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "SEO Fundamentals",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "User Interface Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "UI Design Principles",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Prototyping Tools",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "User Research",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Interaction Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Design Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "User Experience Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "UX Research",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Wireframing and Prototyping",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "User Testing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Information Architecture",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Interaction Design",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Typographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Typography Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Font Creation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Typographic Layout",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Communication",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Audio",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Sound Engineer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Audio Mixing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Recording Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Acoustic Engineering",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Equipment Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Mixing Engineer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Mixing Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audio Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Ear for Music",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Balancing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Input",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Mastering Engineer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Audio Mastering",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Enhancement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audio Formats",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Recording Engineer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Sound Recording",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Microphone Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Studio Setup",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Quality Optimization",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Equipment Maintenance",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Sound Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Sound Effects Creation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audio Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Soundscaping",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Synthesis Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Music Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Music Production",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Song Arrangement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Talent Scouting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Studio Recording",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Industry Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "DJ",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Music Mixing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Beat Matching",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Library Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audience Engagement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Equipment Setup and Operation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Musician",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Instrument Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Musical Composition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Live Performance",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Theory",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaboration Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Composer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Music Composition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Orchestration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Musical Notation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity and Innovation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Instrumentation Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Arranger",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Music Arrangement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Harmony and Melody",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Transcription",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Genre Versatility",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaborative Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Stage Audio Technician",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Live Sound Mixing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Equipment Setup",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Check Execution",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Feedback Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Troubleshooting",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dance",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Classical Dancer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Ballet Technique",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Performance Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Physical Conditioning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Expressiveness",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Repertoire Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Sport Dancer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Athleticism",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Choreography Memorization",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Team Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Competitive Strategies",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Stamina and Endurance",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Urban Dancer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Street Dance Styles",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Freestyle Dancing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Rhythmic Ability",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Choreography",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Battle Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Modern Dancer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Modern Dance Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Expressive Movement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Improvisation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Physical Theater",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaborative Performance",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Contemporary Dancer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Contemporary Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Emotional Expression",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contact Improvisation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Interdisciplinary Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Movement",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "B-boy/B-girl (Break Dance)",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Breakdancing Moves",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Rhythmic Sensitivity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Battle Presence",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Athletic Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Crew Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "African Dancer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Traditional African Dance",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Rhythmic Complexity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Cultural Expression",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Drumming Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Group Synchronization",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Folk Dancer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Folk Dance Styles",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Cultural Heritage",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Group Formations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Storytelling Through Dance",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Costume Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Dance Instructor",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Teaching Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Curriculum Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Student Assessment",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Motivational Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Dance Theory",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Choreographer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Choreographic Creation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Theme Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Dancer Direction",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Selection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Artistic Director of Dance",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Artistic Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Company Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Program Curation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Financial Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Public Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cinema",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Actor/Actress",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Acting Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Character Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Emotional Expressivity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Improvisation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Voice Control",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Extra",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "On-Set Discipline",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Background Acting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Physical Consistency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Follow Directions",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Professionalism",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Screenwriter",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Story Structure",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Dialogue Writing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Character Arcs",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Genre Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Script Formatting",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Casting Director",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Identification",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audition Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Character Matching",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Industry Networking",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Set Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Set Design Principles",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Spatial Awareness",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Material Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budget Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaboration with Directors",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Director of Photography",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Cinematic Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Camera Operation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Lighting Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Storytelling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Film Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Project Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budgeting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fundraising",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Distribution Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Team Leadership",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Costume Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Historical Research",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fabric Selection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Costume Construction",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaboration with Directors",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Editor",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Editing Software Proficiency",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Narrative Pacing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Effects Integration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaborative Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fashion",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Clothing Rental Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Inventory Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Customer Service",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fashion Trends Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing Strategies",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Brand Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Brand Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing Campaigns",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Product Positioning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Customer Engagement",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Stylist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Fashion Styling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Trend Forecasting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Wardrobe Curation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Personal Shopping",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Presentation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Model",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Pose Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Runway Walking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Photogenic Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fitness and Nutrition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Representation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Fashion Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Design Concepts",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Drawing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fabric Selection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collection Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fashion Illustration",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Tailor",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Sewing Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Pattern Making",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Garment Fitting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Alteration Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fabric Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Make-Up Artist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Cosmetic Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Skin Care Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Makeup Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Product Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Client Consultation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Hair Stylist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Hair Cutting Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Coloring Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Hair Styling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Trend Awareness",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Customer Service",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Fashion Buyer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Market Trends Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Supplier Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Inventory Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fashion Merchandising",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budget Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Fashion Marketer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Marketing Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Marketing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Consumer Behavior Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Campaign Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Visual Merchandiser",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Store Layout Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Display Set-Up",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Product Presentation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Consumer Psychology Understanding",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Visual Concepts",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Media",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Magazine Editor",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Editorial Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Content Curation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Writing and Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Visual Content Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Publication Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Radio Content Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Audio Production",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Script Writing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Interviewing Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Live Broadcast Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Tik Tok Content Creator",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Video Production",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Trend Spotting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Content Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audience Engagement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Analytics Monitoring",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "YouTuber",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Video Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Content Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Camera Presence",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "SEO for YouTube",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Community Building",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Streamer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Live Streaming Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audience Interaction",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Gaming Knowledge (if applicable)",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Setup",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Content Monetization",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Interviewer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Questioning Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Listening Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Research and Preparation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Empathy and Rapport",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Broadcast Techniques",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Blogger",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Writing Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "SEO Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Content Marketing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Photography and Multimedia Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Web Analytics",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Digital Marketer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Digital Marketing Strategies",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "SEO and SEM",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Data Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Campaign Execution",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Social Media Strategist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Social Media Platforms Expertise",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Content Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Engagement Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Trend Forecasting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Voice Development",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Copywriter",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Persuasive Writing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Messaging",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Concept Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "SEO Writing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Editing and Proofreading",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Management",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Artist Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Career Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing and Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Financial Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Personal Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Client Relationship",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Schedule Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Personal Branding",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Conflict Resolution",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Strategic Advising",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Artistic Director",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Creative Direction",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Team Leadership",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budget Oversight",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Project Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Project Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Team Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Time Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Risk Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Communication Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "A&R (Artist and Repertoire)",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Scouting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Market Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Artist Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Social Media Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Content Creation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Analytics and Reporting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Community Engagement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Trends",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Crisis Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Public Relations (PR)",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Media Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Press Release Writing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Image Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Crisis Communication",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Personal Driver",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Safe Driving Practices",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Discretion and Confidentiality",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Time Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Vehicle Maintenance Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Client Service",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Music Publisher",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Copyright Law Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Royalty Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Catalog Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Licensing Negotiations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Artist and Repertoire Support",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Music Lawyer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Entertainment Law Expertise",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Drafting and Review",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Intellectual Property Rights",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Legal Advice for Artists",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Sports/Artistic Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Representation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Career Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Public Relations Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Booking Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Event Booking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Industry Networking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Tour Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Event Coordinator",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Event Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Vendor Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budget Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Logistics Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Client Communication",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Talent Scout",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Identification",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Industry Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Networking Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Trends Awareness",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Live",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Event Organizer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Event Design and Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budget Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Venue Selection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Vendor Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing and Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Club/Event Location Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Venue Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Scheduling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Safety Regulations Compliance",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Customer Service",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing Strategies",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Booking Officer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Booking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Calendar Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Artist Liaison",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Event Director",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Creative Direction",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Production Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Team Leadership",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Conceptualization",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Problem Solving",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Promoter",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Marketing and Advertising",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audience Engagement",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sponsorship Acquisition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Campaigns",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Hospitality Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Guest Services",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Accommodation Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Hospitality Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Team Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Customer Satisfaction",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Catering Staff",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Food and Beverage Service",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Menu Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Health and Safety Compliance",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Customer Service",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Set-Up and Clean-Up",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Lighting Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Lighting Design Concepts",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Knowledge of Lighting Equipment",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creativity and Artistic Vision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaboration with Production Team",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Sound Technician",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Audio Equipment Operation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sound Mixing and Editing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Live Sound Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Problem Solving",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Team Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Stage Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Stage Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Scheduling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Crew Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Script Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Cues Execution",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Roadie",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Equipment Setup and Breakdown",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Knowledge of Musical Equipment",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Logistics Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Physical Stamina",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Teamwork",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Agency",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Talent Scout",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Identification",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Industry Networking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Trends Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Client Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Booking Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Artist Booking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Relationship Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Show Business Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Representation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Career Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Industry Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Public Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Film Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Film Market Understanding",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Script Acquisition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation with Studios",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Talent Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Pitching",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Fashion Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Fashion Industry Insight",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Designer Representation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Trend Forecasting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Career Management Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Career Planning and Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Personal Branding",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Networking and Opportunities",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Financial Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Marketing Expert",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Marketing Strategy Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Digital Marketing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Campaign Execution",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Licensing and Merchandising Specialist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Licensing Agreements",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Product Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Expansion",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Royalty Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Digital Talent Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Digital Platform Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Content Monetization Strategies",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Trends",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Influencer Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Sports Agent",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Athlete Representation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Sponsorship Acquisition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Career Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Public Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Public Relations Specialist",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Media Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Crisis Communication",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Event Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Press Release Writing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Talent Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Talent Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Strategic Career Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation and Contracting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Branding and Marketing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Network Building",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Event Planner",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Event Conceptualization",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Vendor and Venue Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budget Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Guest List Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "On-Site Event Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Label",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Record Label",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Artist Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Production",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing and Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Distribution Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Film Production",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Film Financing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Casting and Crewing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Distribution Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing and Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Fashion House",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Collection Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Identity",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Positioning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Fashion Show Production",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Retail Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Talent Management",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Artist Representation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Career Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Partnerships",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Media Training",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Financial Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Editorial Staff",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Content Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Editing and Proofreading",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Publication Scheduling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Author Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Audiovisual Content Production",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Content Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Scriptwriting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Post-Production Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Distribution Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Digital Talent Management",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Content Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Brand Partnership Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Monetization Strategies",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audience Growth",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "A&R Coordinator",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Artist Scouting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Demo Review",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Market Trends",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Artist Development",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Music Publisher",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Copyright Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Royalty Collection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Catalog Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Licensing Deals",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Songwriter Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "License Manager",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Licensing Agreements",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Intellectual Property Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Negotiation Skills",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Market Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Contract Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Production",
+        "choice_type": "skill_category",
+        "child": [
+            {
+                "name": "Streaming Content Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Content Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audience Analysis",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Platform Specifics Knowledge",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Monetization and Marketing",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Digital Content Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Digital Media Trends",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Content Creation",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "SEO and Analytics",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Social Media Integration",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Project Management",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Film Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Film Financing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Direction",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Scheduling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Crew Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing and Distribution",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Theater Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Play Selection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budget Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Team Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Venue Booking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Publicity and Promotion",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Live Event Organizer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Event Planning and Design",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Venue Selection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Talent Booking",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Technical Production Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Audience Engagement",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Music Video Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Concept Development",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Music Video Styling",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Post-Production Supervision",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Artist Collaboration",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Publisher",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Publication Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Manuscript Acquisition",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Editing and Production",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Marketing and Distribution",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Author Relations",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Executive Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Project Financing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Strategic Planning",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Creative Oversight",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Production Budgeting",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Distribution Strategy",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Line Producer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Budget Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Daily Production Operations",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Crew Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Schedule Management",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Vendor Negotiation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Production Assistant",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Production Support",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Schedule Coordination",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Logistics Support",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Administrative Tasks",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Communication Facilitation",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "name": "Set Designer",
+                "choice_type": "skill_sub_category",
+                "child": [
+                    {
+                        "name": "Set Conceptualization",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Design Execution",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Material Selection",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Budgeting and Costing",
+                        "choice_type": "skill",
+                        "child": []
+                    },
+                    {
+                        "name": "Collaboration with Directors",
+                        "choice_type": "skill",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    }
+]
